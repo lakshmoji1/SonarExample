@@ -7,6 +7,9 @@ class Hello
         return 10
     }
 
+    /*
+    Comments in the master branch for function sayHi
+     */
     fun sayHi()
     {
         println("hello everyone hi")
