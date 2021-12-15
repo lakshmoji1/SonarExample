@@ -2,6 +2,9 @@ package org.example
 
 class Hello
 {
+    /*
+        Comment for the getAge() in LakshmojiBranch
+     */
     fun getAge() : Int
     {
         return 10
@@ -16,8 +19,9 @@ class Hello
     }
 
 }
-
-
+/*
+Added a branch named LakshmojiBranch
+ */
 fun main() {
     println(Hello().getAge())
     Hello().sayHi()
