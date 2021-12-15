@@ -18,6 +18,11 @@ class Hello
         println("hello everyone hi")
     }
 
+    fun byRamoji()
+    {
+        println("function created by ramoji")
+    }
+
 }
 /*
 Added a branch named LakshmojiBranch
