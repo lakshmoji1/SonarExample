@@ -18,6 +18,11 @@ class Hello
         println("hello everyone hi")
     }
 
+    fun bymaster()
+    {
+        println("added in master branch")
+    }
+
 }
 /*
 Added a branch named LakshmojiBranch
